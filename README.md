@@ -26,3 +26,17 @@ A comprehensive collection of study notes and resources for technical interview 
 - 2_system_design_zero_to_hero.md - Step-by-step guide from basics to advanced design
 - 3_ecommerce_system_design.md - Real-world e-commerce platform design
 - 4_common_system_design_questions.md - Frequently asked system design interview questions
+
+### AI
+
+- 1-weather-agentic-ai.md - Weather agentic AI
+- 2-cli-agent.md - CLI agent
+- 3-rag.md - Retrieval-Augmented Generation
+
+### Tech Stack
+
+- 1_MERN_Stack.md - MERN stack guide
+- 2_NextJS_Complete_Guide.md - Next.js complete guide
+- 3_Git_Complete_Guide.md - Git complete guide
+- 4_React_Interview_Guide.md - React interview guide
+- 5_Apache_Airflow_Guide.md - Apache Airflow guide
